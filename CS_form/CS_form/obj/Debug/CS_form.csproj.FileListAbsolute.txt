@@ -1,0 +1,9 @@
+C:\Users\owner\Desktop\Crone\CS_form\CS_form\bin\Debug\CS_form.exe.config
+C:\Users\owner\Desktop\Crone\CS_form\CS_form\bin\Debug\CS_form.exe
+C:\Users\owner\Desktop\Crone\CS_form\CS_form\bin\Debug\CS_form.pdb
+C:\Users\owner\Desktop\Crone\CS_form\CS_form\obj\Debug\CS_form.csproj.AssemblyReference.cache
+C:\Users\owner\Desktop\Crone\CS_form\CS_form\obj\Debug\CS_form.Properties.Resources.resources
+C:\Users\owner\Desktop\Crone\CS_form\CS_form\obj\Debug\CS_form.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\Crone\CS_form\CS_form\obj\Debug\CS_form.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Crone\CS_form\CS_form\obj\Debug\CS_form.exe
+C:\Users\owner\Desktop\Crone\CS_form\CS_form\obj\Debug\CS_form.pdb
