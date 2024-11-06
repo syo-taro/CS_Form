@@ -16,9 +16,19 @@ namespace CS_form
         {
             InitializeComponent();
 
-            testbutton testbutton = new testbutton();
 
-            Controls.Add(testbutton);
+            for (int i = 0; i < 10; i++)
+            {
+
+
+
+                testbutton testbutton = new testbutton(i, (i % 5) * 100, (i / 5) * 100, 100, 100);
+
+                Controls.Add(testbutton);
+            }
+            TestLabel testLabel =
+               new TestLabel("らべるです。", 10, 300, 100, 500);
+            Controls.Add(testLabel);
         }
     }
 }
