@@ -4,19 +4,26 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using System.Windows.Forms;
+
 
 namespace CS_form
 {
     class TestLabel : Label
     {
-        public TestLabel(string str, int x, int y,
-            int width, int height)
+        public TestLabel(string str, int x, int y, int width, int height)
         {
-            Text = str;
+            Text += str;
+
             Location = new Point(x, y);
+
             Size = new Size(width, height);
         }
+
+        public void TextUpdate(string str)
+        {
+            Text = str; 
+        }
+
     }
 }
