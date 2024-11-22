@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|c:\\users\\owner\\desktop\\crone\\cs_form\\cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|C:\\Users\\owner\\Desktop\\Crone\\CS_form\\cs_form\\testbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|solutionrelative:cs_form\\testbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|C:\\Users\\owner\\Desktop\\Crone\\CS_form\\cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|solutionrelative:cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|c:\\users\\owner\\desktop\\crone\\cs_form\\cs_form\\testtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|solutionrelative:cs_form\\testtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|C:\\Users\\owner\\Desktop\\Crone\\CS_form\\cs_form\\testlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|solutionrelative:cs_form\\testlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|C:\\Users\\owner\\Desktop\\Crone\\CS_form\\cs_form\\testbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|solutionrelative:cs_form\\testbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDF919D0-8FC8-496C-9822-68BC8714D58D}|CS_form\\CS_form.csproj|C:\\Users\\owner\\Desktop\\Crone\\CS_form\\cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,46 +34,58 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestLabel.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\TestLabel.cs",
-              "RelativeDocumentMoniker": "CS_form\\TestLabel.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\TestLabel.cs",
-              "RelativeToolTip": "CS_form\\TestLabel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T02:16:54.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "testbutton.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\testbutton.cs",
-              "RelativeDocumentMoniker": "CS_form\\testbutton.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\testbutton.cs",
-              "RelativeToolTip": "CS_form\\testbutton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "TestTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\TestTextBox.cs",
+              "RelativeDocumentMoniker": "CS_form\\TestTextBox.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\TestTextBox.cs",
+              "RelativeToolTip": "CS_form\\TestTextBox.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvw4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T02:05:38.763Z",
+              "WhenOpened": "2024-11-22T04:48:44.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\Form1.cs",
               "RelativeDocumentMoniker": "CS_form\\Form1.cs",
               "ToolTip": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\Form1.cs",
               "RelativeToolTip": "CS_form\\Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAABnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T01:50:46.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testbutton.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\testbutton.cs",
+              "RelativeDocumentMoniker": "CS_form\\testbutton.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\testbutton.cs",
+              "RelativeToolTip": "CS_form\\testbutton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:05:38.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TestLabel.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\TestLabel.cs",
+              "RelativeDocumentMoniker": "CS_form\\TestLabel.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\TestLabel.cs",
+              "RelativeToolTip": "CS_form\\TestLabel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:16:54.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\Crone\\CS_form\\CS_form\\Form1.cs",
               "RelativeDocumentMoniker": "CS_form\\Form1.cs",

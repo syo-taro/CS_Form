@@ -11,13 +11,13 @@ namespace CS_form
      internal class testbutton : Button
     { 
         Form1 _form1;
-        public testbutton(Form1 form, int id, int x, int y, int width, int height)
+        public testbutton(Form1 form, string str, int x, int y, int width, int height)
         {
             _form1 = form;
 
             Click += OnClick;
 
-            Text = id.ToString();
+            Text = str;
 
             Location = new Point(x, y);
 
@@ -26,7 +26,11 @@ namespace CS_form
 
         public void OnClick(object sender, EventArgs s)
         {
-            MessageBox.Show(Text);
+
+            string t = _form1.ButtonLabelReplacement(Text);
+
+            Text = t;
+           // MessageBox.Show(Text);
         }
     }
 }
